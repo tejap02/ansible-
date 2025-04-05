@@ -1,0 +1,12 @@
+Host CS
+        HostName 34.227.60.238
+        User ubuntu
+        IdentityFile /home/ubuntu/.ssh/tejaswi.pem
+Host MS1
+        HostName 54.160.166.31
+        User ubuntu
+        IdentityFile /home/ubuntu/.ssh/tejaswi.pem
+Host MS2
+        HostName 3.94.165.14
+        User ubuntu
+        IdentityFile /home/ubuntu/.ssh/tejaswi.pem
